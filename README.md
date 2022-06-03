@@ -1,5 +1,5 @@
 # one-key-frp
-Shell script to deploy frp.
+A simple shell script to deploy frp.
 # Usage
 ```shell
 wget https://github.com/rickgcn/one-key-frp/raw/master/one-key-frp.sh
